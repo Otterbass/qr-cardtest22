@@ -1,0 +1,10 @@
+// Colors
+$primary: hsl(212, 45%, 89%);
+$secondary: hsl(216, 15%, 48%);
+$dark: hsl(218, 44%, 22%);
+$white: hsl(0, 0%, 100%);
+
+// Font
+$font-family-sans-serif: "Outfit", sans-serif;
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
